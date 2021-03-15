@@ -1,2 +1,2 @@
 # Dairy_Business
-Automation the process of getting reports
+Automating the process of getting reports
